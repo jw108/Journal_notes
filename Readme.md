@@ -11,8 +11,8 @@
 
 # Описание проекта:
 
-1. Проект выполнен на яз Python ver 3.11.2 в IDE Pyrcharm
-2. Проект расположен на  [Github](https://github.com/AleksNest/Journal_notes/tree/master/)
+1. Проект выполнен на яз Python
+2. Проект расположен на  [Github](https://github.com/jw108/Journal_notes)
 3. В проекте были использованы Pull requests на изменение с рабочей ветки dev в итоговую ветку master
 4. Приложение Журнал заметок выполняет следующий функционал:
 - вывод журнала заметок
